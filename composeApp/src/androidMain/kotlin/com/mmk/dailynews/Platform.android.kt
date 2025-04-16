@@ -1,4 +1,4 @@
-package com.mmk.dailypulse
+package com.mmk.dailynews
 
 import android.content.res.Resources
 import android.os.Build

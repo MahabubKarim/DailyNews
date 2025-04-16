@@ -1,4 +1,4 @@
-package com.mmk.dailypulse
+package com.mmk.dailynews
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -8,8 +8,7 @@ import androidx.compose.material3.*
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.mmk.dailypulse.Platform
-import com.mmk.dailypulse.android.AboutScreen
+import com.mmk.dailynews.android.AboutScreen
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

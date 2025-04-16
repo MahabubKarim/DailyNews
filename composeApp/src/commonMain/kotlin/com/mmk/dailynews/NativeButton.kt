@@ -1,4 +1,4 @@
-package com.mmk.dailypulse
+package com.mmk.dailynews
 
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier

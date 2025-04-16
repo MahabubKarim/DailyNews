@@ -1,4 +1,4 @@
-package com.mmk.dailypulse
+package com.mmk.dailynews
 
 expect class Platform {
     val osName: String

@@ -1,4 +1,4 @@
-package com.mmk.dailypulse
+package com.mmk.dailynews
 
 import platform.Foundation.NSLog
 import platform.UIKit.UIDevice

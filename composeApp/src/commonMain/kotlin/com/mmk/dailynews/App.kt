@@ -1,4 +1,4 @@
-package com.mmk.dailypulse
+package com.mmk.dailynews
 
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.foundation.Image
